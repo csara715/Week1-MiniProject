@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header {
+    position: fixed;
+    top: 0px;
+    text-align: center;
+}
+
+.nav {
+    position: inline;
+    right: 0px;
+    background-color: blue;
+    color: black;
+}
